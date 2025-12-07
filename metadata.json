@@ -1,0 +1,5 @@
+{
+  "name": "SmartGrid SCADA AI",
+  "description": "Next-gen distribution feeder monitoring and dynamic load balancing system with real-time PV injection control.",
+  "requestFramePermissions": []
+}
